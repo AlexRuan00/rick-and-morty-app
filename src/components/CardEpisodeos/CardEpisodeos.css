@@ -1,0 +1,11 @@
+.container-episodeo {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+
+.container-episodeo p {
+    margin-left: 10px;
+}

@@ -1,0 +1,17 @@
+.container-perfil {
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;  
+    width: 500px;
+}
+
+.imagem-centro {
+    margin-left: 38%;
+    justify-content: center;
+}
+.imagem-centro img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%; 
+}

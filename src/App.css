@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+}
+.container header {
+  text-align: center;
+  background-color: #c4c4c4;
+  max-width: 100%;
+  height: 80px;
+  margin: 0;
+  padding: 0;
+}
+
+.container  h1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #c4c4c4;
+  max-width: 100%;
+  height: 80px;
+  margin: 0;
+  padding: 0;
+}
+.pesquisar {
+  display: flex;
+  align-items: center;
+}
+
+.input-quadradinho {
+  border: 1px solid #ccc;
+  padding: 5px;
+  border-radius: 8px 0px 0px 8px;
+  flex: 1; 
+  height: 15px;
+}
+
+.botao-pesquisar {
+  background-color: #007BFF; 
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 0px 8px 8px 0px;
+  cursor: pointer;
+  height: 26px;
+}
+
+.card-personagem{
+  width: 430px;
+}
+.corpo {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  display: flex;
+}
+.busca {
+  display: inline-block;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 450px;
+}
+
+.pesquisa select {
+  margin-left: 8px;
+  border: 1px solid #ccc;
+  border-radius: 8px ;
+  height: 26px;
+}
+
+
+
